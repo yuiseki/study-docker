@@ -3,6 +3,8 @@
 ## 動かし方
 
 ```
+git clone https://github.com/yuiseki/study-docker
+cd study-docker
 docker-compose build
 docker-compose up
 
